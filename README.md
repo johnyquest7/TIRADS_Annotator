@@ -21,6 +21,9 @@ This web-based application is designed for radiologists and researchers involved
   
 The file uses global variables to manage the state of annotations and includes error handling for edge cases like the last image in the database. It also defines scoring criteria for calculating TI-RADS based on nodule characteristics.
 
+## Usage
+Before using the app, make sure the  "image_file_directory" variable point to your folder with thyroid ultrasound images.
+
 ## Contributions
 Contributions to this project are welcome. Please reach out for more details on how to contribute or create a pull request.
 
