@@ -10,6 +10,7 @@ This web-based application is designed for radiologists and researchers involved
 - **Automated TI-RADS Reporting:** Leverage AI models to generate TI-RADS reports automatically.
 - **Comparison Studies:** Conduct studies to compare agreement rates between radiologists and AI assessments.
 
+![TI-RADS annotator GUI](https://github.com/johnyquest7/TIRADS_Annotator/assets/22123236/1a494928-f008-467e-99e9-f584b5465a24)
 ## Summary of the tool
 
 - **Purpose:** It’s designed to load or create annotations for thyroid nodule images, calculate TI-RADS scores, and navigate through images for annotation.
