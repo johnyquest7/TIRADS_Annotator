@@ -1,7 +1,6 @@
 # TIRADS_Annotator
 An open-source tool to generate TI-RADS description for thyroid nodules
 
-# Thyroid Nodule Annotation Tool
 
 ## Overview
 This web-based application is designed for radiologists and researchers involved in thyroid nodule analysis. It enables users to generate annotations for thyroid nodules using TI-RADS descriptors and could provides automated TI-RADS reports using AI models. This tool aims to facilitate studies on the agreement between radiologist assessments and AI-generated evaluations.
