@@ -1,4 +1,4 @@
-# Crated by Johnson Thomas https://github.com/johnyquest7
+# Created by Johnson Thomas https://github.com/johnyquest7
 
 import gradio as gr
 import os
