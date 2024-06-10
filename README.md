@@ -10,6 +10,16 @@ This web-based application is designed for radiologists and researchers involved
 - **Automated TI-RADS Reporting:** Leverage AI models to generate TI-RADS reports automatically.
 - **Comparison Studies:** Conduct studies to compare agreement rates between radiologists and AI assessments.
 
+## Summary of the tool
+
+- **Purpose:** It’s designed to load or create annotations for thyroid nodule images, calculate TI-RADS scores, and navigate through images for annotation.
+- **Requirements:** The app requires Python libraries - gradio, os, PIL, pandas, time, and sys.
+- **Functionality:** It includes functions to handle file operations, retrieve and sort file lists, load/create annotation data, calculate TI-RADS, and save annotations.
+- **Inputs:** The inputs are image files of thyroid nodules, stored in a specified directory, and user annotations for various attributes of the nodules.
+- **Outputs:** The outputs are an updated CSV file with annotations and TI-RADS scores, and a user interface for navigating and annotating images.
+  
+The file uses global variables to manage the state of annotations and includes error handling for edge cases like the last image in the database. It also defines scoring criteria for calculating TI-RADS based on nodule characteristics.
+
 ## Contributions
 Contributions to this project are welcome. Please reach out for more details on how to contribute or create a pull request.
 
